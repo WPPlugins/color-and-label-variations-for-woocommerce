@@ -1,0 +1,18 @@
+.swv-image-wrapper {
+  margin-bottom: 5px; }
+  .swv-image-wrapper img {
+    vertical-align: top;
+    max-width: 100%; }
+
+.swv-button-color {
+  display: inline-block;
+  width: 30px;
+  height: 30px; }
+
+.swv-button-label {
+  display: inline-block;
+  padding: 5px;
+  background-color: #ddd;
+  color: #333; }
+
+/*# sourceMappingURL=admin.css.map */

@@ -1,0 +1,49 @@
+# Copyright (C) 2017 color-and-label-variations-for-woocommerce
+# This file is distributed under the same license as the color-and-label-variations-for-woocommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: color-and-label-variations-for-woocommerce\n"
+"Report-Msgid-Bugs-To: http://saturnplugins.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Language-Team: SaturnPlugins <saturnplugins@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:34
+msgid "Choose Image"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:79, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:125
+msgid "Variation Type"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:81, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:129
+msgid "Default"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:82, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:88, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:130, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:138
+msgid "Color"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:83, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:92, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:131, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:146
+msgid "Image"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:84, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:132, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:163, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:211
+msgid "Label"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:96, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:152
+msgid "Upload/Add image"
+msgstr ""
+
+#: src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:97, src/color-and-label-variations-for-woocommerce/admin/class-swv-admin.php:153
+msgid "Remove image"
+msgstr ""
